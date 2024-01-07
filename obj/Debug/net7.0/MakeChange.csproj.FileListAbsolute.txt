@@ -1,0 +1,14 @@
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\bin\Debug\net7.0\MakeChange.exe
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\bin\Debug\net7.0\MakeChange.deps.json
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\bin\Debug\net7.0\MakeChange.runtimeconfig.json
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\bin\Debug\net7.0\MakeChange.dll
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\bin\Debug\net7.0\MakeChange.pdb
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.AssemblyInfoInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.AssemblyInfo.cs
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.dll
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\refint\MakeChange.dll
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.pdb
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\MakeChange.genruntimeconfig.cache
+C:\Users\buyer\Documents\CsharpProjects\MakeChange\obj\Debug\net7.0\ref\MakeChange.dll
